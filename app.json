@@ -36,10 +36,10 @@
       "expo-sqlite",
       "expo-image"
     ],
-    "experiments": {
+        "experiments": {
       "typedRoutes": true,
-      "reactCompiler": true
+      "reactCompiler": true,
       "baseUrl": "/Sociq"
-    }
+        }
   }
 }
