@@ -1,0 +1,2 @@
+export const supabaseUrl = 'https://vxfpetplrawauinmndat.supabase.co';
+export const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZ4ZnBldHBscmF3YXVpbm1uZGF0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODU4NTA4NzYsImV4cCI6MjEwMTQyNjg3Nn0.bEm0HPEHghS4G1kzy3zqezdqLMIkQFGHYVQX6Ug2i00';
