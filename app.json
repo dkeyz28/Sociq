@@ -23,8 +23,13 @@
       },
       "predictiveBackGestureEnabled": false
     },
-    "plugins": [
-      "expo-router",
+        "plugins": [
+      [
+        "expo-router",
+        {
+          "root": "./src/app"
+        }
+      ],
       [
         "expo-splash-screen",
         {
